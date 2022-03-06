@@ -9,3 +9,4 @@ The Repository will hold 100 simple web projects(mostly front end) That I'm Curr
 ## 5.Product Checkout Page
 ## 6.Responsive navbar with flexbox
 ## 7.Flipping Card
+## 8. Snowish Rain effect with JS
