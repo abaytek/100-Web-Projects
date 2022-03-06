@@ -1,4 +1,5 @@
 # 100-Simple-Web-Projects
+![alt text](https://github.com/abaysewtekle/100-Web-Projects/blob/main/cover.jfif)
 The Repository will hold 100 simple web projects(mostly front end) That I'm Currently Working on
 ## 1.Dark Mode Website
 ## 2.Ecommerce website design
