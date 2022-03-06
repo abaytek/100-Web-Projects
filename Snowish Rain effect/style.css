@@ -1,0 +1,27 @@
+body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	overflow: hidden;
+	background-color: #131313;
+	color: white;
+	font-size: 1.5rem;
+}
+
+.text {
+	position: fixed;
+	top:  -1vh;
+	animation: fail 3s linear;
+	transform: translateY(-5vh);
+	transition: all 1s ease;
+}
+
+@keyframes fail{
+	50% {
+		transform: translateY(50vh);
+	}
+	100% {
+		transform: translateY(105vh);
+	}
+}
